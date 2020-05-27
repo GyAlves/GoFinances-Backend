@@ -12,8 +12,8 @@ export default class AddCategoryIdToTransactions1588632608457
       'transactions',
       new TableColumn({
         name: 'category_id',
-        type: 'varchar',
-        default: 'uuid()',
+        type: 'uuid',
+        default: 'uuid_generate_v4()',
         isNullable: true,
       }),
     );
