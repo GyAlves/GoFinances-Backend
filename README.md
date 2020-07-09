@@ -34,7 +34,20 @@ Tecnologias e ferramentas utilizadas no projeto :
 - ExpressJS
 - Insomnia 
 
+ ## Requisitos necessários para rodar o projeto 
+ #### OBS: Necessário baixar o Insomnia para fazer as requisições
 
+```
+  // 1 - Git Clone
+  
+  // 2 - Instale as depêndencias
+  yarn install
+  
+  // 3 - Rode o projeto
+  yarn dev 
+  
+  // 4 -Dentro do Insomnia crie as requisições e configure as rotas de acordo com os arquivos da pasta routes
+```
 
 ##  Licence :memo:
 
