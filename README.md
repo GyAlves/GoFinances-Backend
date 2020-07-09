@@ -44,7 +44,7 @@ Tecnologias e ferramentas utilizadas no projeto :
   yarn install
   
   // 3 - Rode o projeto
-  yarn dev 
+  yarn dev:server
   
   // 4 -Dentro do Insomnia crie as requisições e configure as rotas de acordo com os arquivos da pasta routes
 ```
